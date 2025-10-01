@@ -15,3 +15,8 @@ When the game ends, press Y to restart or N to exit the game.
 
 At any moment, you can press ESC to exit the game.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/437c368a-50a7-4d90-b746-36c0c83b3e13
+
